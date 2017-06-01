@@ -13,6 +13,7 @@ import twitter4j.TwitterFactory;
  */
 public class Function {
 
+    //Twitter instance
     private static final Twitter twitter = TwitterFactory.getSingleton();
 
     /**
